@@ -1,4 +1,4 @@
-# Assignment: Convention Sentiment
+# Assignment: Convention Speaker Sentiment
 
 The marching orders for this assignment are pretty straightforward. Using the 2020 Conventions database, 
 assemble text for Donald Trump, Joe Biden, Mike Pence, and Kamala Harris. We'll score the sentiment of
